@@ -1,7 +1,7 @@
-<div style="display: flex; justify-content: center; align-items: center">
-  <label style="font-size: 45px; padding-top: 80px">Plant Manager</label>
-  <img width="30%" height="30%" src="assets/adaptive-icon.png" />
-</div>
+# Plant Manager 
+
+<img width="40%" height="40%" src="assets/adaptive-icon.png" /> <img width="25%" height="25%" src="src/assets/watering.png" />
+
 
 This is a [React Native](https://reactnative.dev/) project bootstrapped with [`expo init`](https://docs.expo.io/workflow/expo-cli/).
 

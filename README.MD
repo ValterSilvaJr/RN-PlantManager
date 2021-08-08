@@ -1,6 +1,6 @@
 # Plant Manager 
 
-<img width="40%" height="40%" src="assets/adaptive-icon.png" /> <img width="25%" height="25%" src="src/assets/watering.png" />
+<img width="40%" height="40%" src="assets/adaptive-icon.png" /> <img width="30%" height="30%" src="src/assets/watering.png" />
 
 
 This is a [React Native](https://reactnative.dev/) project bootstrapped with [`expo init`](https://docs.expo.io/workflow/expo-cli/).

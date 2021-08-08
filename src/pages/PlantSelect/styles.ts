@@ -30,4 +30,9 @@ export const styles = StyleSheet.create({
     marginLeft: 32,
     marginVertical: 32,
   },
+  plants: {
+    flex: 1,
+    paddingHorizontal: 32,
+    justifyContent: 'center',
+  },
 })
